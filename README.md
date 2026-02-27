@@ -10,6 +10,7 @@ A more detail description of the test and the motivation for doing it can be fou
 
 REF JFM paper
 
+The data is provided open access and we ask only that the above journal paper is properly reference in case data usage in other publications.
 
 ## Useful information about the dataset
 ID tag logics:
