@@ -1,4 +1,6 @@
 # Wavemodel Benchmark Experiments
+![Wave flume illustration](images/wave_basin_test_facility.png)
+
 This repo includes resulting measurements from a waveflume experiments that was run to provide data of dispersive wave groups for benchmarking wave models.
 The wave groups run have steepness spaning from linear to severely breaking conditions. Two bathymetries where used:
 1. flat bed (practically deep water)
