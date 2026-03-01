@@ -35,7 +35,6 @@ When amplitude increases, strong modulation will occur and the focus point will 
 | C02A45F01 | test430030 |
 | C02A65F02 | test430050 |
 
-
 ### Wave probe positions
 The wave probe locations were fixed for the entire test.
 probe 1: 1.00m from wavemaker
@@ -43,7 +42,18 @@ probe 2: 7.407m from wavemaker
 probe 3: 8.15m from wavemaker
 probe 4: 8.845m from wave maker
 
-### Linear focus point
+### Dissipation tests
+The test data from the separate disipation tests can be found in the folder /waveprobes/tank_dissipation_tests. These tests were run with flat seabed (0.6m) and the wave probes were more spread in the basin. The positions of the wave probes for these tests where:
+probe 1: 1.0m from wave maker
+probe 2: 5.0m from wave maker
+probe 3: 8.0m from wave maker
+probe 4: 12.0m from wave maker 
+
+### Wave paddle motions
+may be found in the folder "wavepaddle_motions". 
+
+### Linear spectral components
+Alternatively, discrete linear spectral components may be used to generate the waves.
 
 
 
